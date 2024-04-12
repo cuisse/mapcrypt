@@ -68,4 +68,6 @@ layer 1 input : 0 4 3 1 2
 layer 1 output: 4 3 2 1 0
 ```
 
+You can run the command ```dub test``` to test the project.
+
 That is all. I hope my brain did not mess up something in the examples...
