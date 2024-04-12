@@ -1,0 +1,8 @@
+{
+	"name": "mapcrypt",
+	"authors": ["Brayan Roman"],
+	"tags": ["encrypt", "decrypt"],
+	"license": "MIT",
+	"version": "1.0.0",
+	"description": "A silly library to encrypt and decrypt bytes"
+}
