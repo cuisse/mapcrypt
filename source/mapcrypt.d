@@ -1,5 +1,4 @@
 module mapcrypt;
-import std.stdio;
 
 private ubyte[256] bytes = (ubyte[] seed) {
         for (auto i = 0; i < seed.length; i++) {
